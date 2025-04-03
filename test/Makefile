@@ -1,6 +1,6 @@
 # Makefile
 CLOCK_PROJECT = no
-FIBONACCI_PROJECT = no
+FIBONACCI_PROJECT = yes
 
 ifeq ($(CLOCK_PROJECT),yes)
 
